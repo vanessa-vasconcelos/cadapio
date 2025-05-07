@@ -13,7 +13,7 @@ Antes de iniciar, você deve ter o Node.js e o NPM instalados em sua máquina.
 
 ## 🔁 Clonando o Projeto
 
-``` git clone https://github.com/vanessa-vasconcelos/cadapio.git ```
+``` git clone https://github.com/vanessa-vasconcelos/cardapio.git ```
 
 ## ▶️ Executando o Projeto
 
@@ -23,15 +23,3 @@ npm install
 npm start
 ```
 
-
-## 🫂 Integração com Backend
-Repositório do backend:
-
-``` https://github.com/vanessa-vasconcelos/cadapio-backend.git ```
-
-## ▶️ Executando o Projeto
-
-```
-cd cadapio_backend
-./mvnw spring-boot:run
-```
