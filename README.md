@@ -13,27 +13,18 @@ Antes de iniciar, você deve ter o Node.js e o NPM instalados em sua máquina.
 
 ## 🔁 Clonando o Projeto
 
-``` git clone https://github.com/vanessa-vasconcelos/login-page.git ```
+``` git clone https://github.com/vanessa-vasconcelos/cadapio.git ```
 
 ## ▶️ Executando o Projeto
 
 ```
-cd login-page
+cd frontend-cardapio
 npm install
 npm start
 ```
 
-## 📍 Rotas da Aplicação
 
-| Rota    | Descrição                                                   |
-|---------|-------------------------------------------------------------|
-| /signup | Página para inscrição                                       |
-| /login  | Página para login                                           |
-| /user   | Página protegida que somente usuários logados podem acessar |
-
-
-
-## 📫 Backend
+## 🫂 Integração com Backend
 Repositório do backend:
 
 ``` https://github.com/vanessa-vasconcelos/login-auth-api.git ```
