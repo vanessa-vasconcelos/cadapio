@@ -27,5 +27,11 @@ npm start
 ## 🫂 Integração com Backend
 Repositório do backend:
 
-``` https://github.com/vanessa-vasconcelos/login-auth-api.git ```
+``` https://github.com/vanessa-vasconcelos/cadapio-backend.git ```
 
+## ▶️ Executando o Projeto
+
+```
+cd cadapio_backend
+./mvnw spring-boot:run
+```
